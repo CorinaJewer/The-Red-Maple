@@ -1,0 +1,25 @@
+nav ul{
+    display:flex;
+    list-style: none;
+    padding:0;
+}
+
+nav li{margin-left: 50px;
+}
+
+cite{
+    font-size: 30px;
+}
+
+#red{
+    color:red;
+}
+
+.socialmedia {
+    width: 200px;
+    font-size: 25px;
+}
+
+  #copywright{
+    float:right;
+  }
